@@ -1,4 +1,4 @@
-//
+//https://leetcode.com/problems/3sum/description/
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
