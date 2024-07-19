@@ -22,7 +22,7 @@ Welcome to my Arsh Goyal's Crack Your Placement Challenge for next 45 days pract
 
 ---
 
-## Day 02 of 45 Complete (14 of 287)!
+## Day 02 of 45 Complete (13 of 287)!
 
 ### Covered Topic: Arrays
 
@@ -35,7 +35,7 @@ Welcome to my Arsh Goyal's Crack Your Placement Challenge for next 45 days pract
 
 ---
 
-## Day 03 of 45 Complete (18 of 287)!
+## Day 03 of 45 Complete (17 of 287)!
 
 ### Covered Topic: Strings
 
@@ -47,17 +47,21 @@ Welcome to my Arsh Goyal's Crack Your Placement Challenge for next 45 days pract
 
 ---
 
-## Day 04 of 45 Complete (18 of 287)!
+## Day 04 of 45 Complete (21 of 287)!
 
 ### Covered Topic: Arrays
 
 #### 💡 Solved/Revised  Problems:
 - ✅ [4Sum](https://leetcode.com/problems/valid-parentheses/)
-- ✅ [Print all the duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)
-- ✅ [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
-- ✅ [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+- ✅ [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- ✅ [Word Search](https://leetcode.com/problems/word-search)
+- ✅ [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 ---
+
+
+
+
 
 ### Connect with Me
 
