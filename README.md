@@ -59,7 +59,17 @@ Welcome to my Arsh Goyal's Crack Your Placement Challenge for next 45 days pract
 
 ---
 
+## Day 05 of 45 Complete (25 of 287)!
 
+### Covered Topic: Arrays(Greedy)+String
+
+#### 💡 Solved/Revised  Problems:
+- ✅ [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+- ✅ [Jump Game](https://leetcode.com/problems/jump-game/)
+- ✅ [All Unique Permutations of an array](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/0)
+- ✅ [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+
+---
 
 
 
