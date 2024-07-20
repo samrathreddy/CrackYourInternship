@@ -1,0 +1,16 @@
+//https://www.geeksforgeeks.org/problems/print-anagrams-together/1
+class Solution {
+    public List<List<String>> Anagrams(String[] string) {
+        HashMap<String,List<String>> m = new HashMap<>();
+        for(String s : string){
+            char[] c = s.toCharArray();
+            Arrays.sort(c);
+            String sort = new String(c);
+            if(!m.containsKey(sort)){
+                m.put(sort,new ArrayList<>());
+            }
+            m.get(sort).add(s);
+        }
+        return new ArrayList<>(m.values());
+    }
+}

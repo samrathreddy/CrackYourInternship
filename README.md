@@ -71,6 +71,19 @@ Welcome to my Arsh Goyal's Crack Your Placement Challenge for next 45 days pract
 
 ---
 
+## Day 06 of 45 Complete (30 of 287)!
+
+### Covered Topic: Strings
+
+#### 💡 Solved/Revised 5 Problems:
+- ✅ [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+- ✅ [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+- ✅ [Simplify Path](https://leetcode.com/problems/simplify-path/)
+- ✅ [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- ✅ [Print Anagrams Together](https://www.geeksforgeeks.org/problems/print-anagrams-together/1)
+
+---
+
 
 
 ### Connect with Me
@@ -80,6 +93,5 @@ Let's connect on LinkedIn or GitHub to discuss algorithms, tech interviews, and 
 ---
 
 ### Tags
-
 #DSA #DataStructures #Algorithms #Coding #PlacementPreparation #InternshipPreparation
 #leetcode-solutions #problem-solving #dsa #crackyourplacement #crackyourinternship #arsh-goyal #dsasheetbyarsh #45dayschallenge
