@@ -83,7 +83,19 @@ Welcome to my Arsh Goyal's Crack Your Placement Challenge for next 45 days pract
 - ✅ [Print Anagrams Together](https://www.geeksforgeeks.org/problems/print-anagrams-together/1)
 
 ---
+## Day 07 of 45 Complete (36 of 287)!
 
+### Covered Topic: DP(Dynamic Programming)
+
+#### 💡 Solved/Revised 6 Problems:
+- ✅ [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+- ✅ [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- ✅ [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- ✅ [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
+- ✅ [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
+- ✅ [Coin Change](https://leetcode.com/problems/coin-change/)
+
+---
 
 
 ### Connect with Me
