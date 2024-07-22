@@ -96,6 +96,31 @@ Welcome to my Arsh Goyal's Crack Your Placement Challenge for next 45 days pract
 - ✅ [Coin Change](https://leetcode.com/problems/coin-change/)
 
 ---
+## Day 07 of 45 Complete (36 of 287)!
+
+### Covered Topic: DP(Dynamic Programming)
+
+#### 💡 Solved/Revised 6 Problems:
+- ✅ [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+- ✅ [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- ✅ [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- ✅ [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
+- ✅ [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
+- ✅ [Coin Change](https://leetcode.com/problems/coin-change/)
+
+---
+## Day 08 of 45 Complete (41 of 287)!
+
+### Covered Topic: Arrays + Strings
+
+#### 💡 Solved/Revised 5 Problems:
+- ✅ [Subarray Sums Divisible by K](//https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+- ✅ [Subarray Sum Equals K](//https://leetcode.com/problems/subarray-sum-equals-k/)
+- ✅ [Game of Life](//https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- ✅ [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+- ✅ [Basic Calculator II](//https://leetcode.com/problems/basic-calculator-ii/)
+
+---
 
 
 ### Connect with Me
